@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @zubingtan.
-- 👀 I’m interested in SLAM.
-- 🌱 I’m currently working at Map team.
+- 🌱 I’m currently working at Localization team.
+- 👀 I’m interested in Visual SLAM, $\mathbf{J}^{\top}\mathbf{WJ}\Delta \mathbf{x}=-\mathbf{Jr}$ is all you need!
